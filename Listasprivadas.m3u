@@ -1,0 +1,590 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV || DEPORTES PPV (solo eventos)", UFC FHD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA", DAZN 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/69249
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA", DAZN 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/69250
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="TV || DEPORTES EUROPA", DAZN LA LIGA HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/89730
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2fba4f552644ce9d592c588a206fdb1c.png" group-title="TV || DEPORTES PPV (solo eventos)", ESPN PREMIUM HD ARGENTINA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/89731
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="TV || DEPORTES EUROPA", DAZN F1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/120317
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA", LA LIGA TV
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181933
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="TV || DEPORTES EUROPA", LA LIGA TV 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181934
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="TV || DEPORTES EUROPA", LA LIGA TV 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181935
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="TV || DEPORTES EUROPA", LA LIGA TV 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181936
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA", LA LIGA TV 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181937
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="TV || DEPORTES EUROPA", LIGA DE CAMPEONES 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181939
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="TV || DEPORTES EUROPA", LIGA DE CAMPEONES 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181940
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="TV || DEPORTES EUROPA", LIGA DE CAMPEONES 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181941
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="TV || DEPORTES EUROPA", LIGA DE CAMPEONES 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181942
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="TV || DEPORTES EUROPA", LIGA DE CAMPEONES 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181943
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1THgyhf/real.png" group-title="TV || DEPORTES EUROPA", REAL MADRID TV
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/249485
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt8VL6fq/WWE.png" group-title="TV || DEPORTES PPV (solo eventos)", WWE (SOLO EVENTOS)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339065
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/World-Wrestling-Entertainment-WWE-Logo.png" group-title="TV || DEPORTES PPV (solo eventos)", WWE NETWORK HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/45532
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="TV || DEPORTES", BEIN SPORT Ñ
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92569
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="TV || DEPORTES", BEIN SPORT XTRA Ñ
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92570
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="TV || DEPORTES", BEIN SPORTS XTRA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92572
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kr95rWq/DSports.png" group-title="TV || DEPORTES", D. SPORTS 1 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92576
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kr95rWq/DSports.png" group-title="TV || DEPORTES", D. SPORTS 1 HD (COL)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92577
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kr95rWq/DSports.png" group-title="TV || DEPORTES", D. SPORTS 1 HD (ECU)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92578
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7NrcKvF/Dsports2.png" group-title="TV || DEPORTES", D. SPORTS 2 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92579
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7NrcKvF/Dsports2.png" group-title="TV || DEPORTES", D. SPORTS 2 HD (COL)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92580
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7NrcKvF/Dsports2.png" group-title="TV || DEPORTES", D. SPORTS 2 HD (ECU)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92581
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z18C7sLx/Dsports.png" group-title="TV || DEPORTES", D. SPORTS+ HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92582
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z18C7sLx/Dsports.png" group-title="TV || DEPORTES", D. SPORTS+ HD (COL)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92583
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z18C7sLx/Dsports.png" group-title="TV || DEPORTES", D. SPORTS+ HD (ECU)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92584
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="TV || DEPORTES", ESPN 7 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92585
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="TV || DEPORTES", ESPN 1 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92586
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="TV || DEPORTES", ESPN 1 HD (LAT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92588
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/6bd4a9a722f9cd1125fd44f60b24223c.png" group-title="TV || DEPORTES", ESPN 2 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92592
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/ad2e5e3540c7ff4ab25b69b96b522348.png" group-title="TV || DEPORTES", ESPN 2 HD (LAT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92594
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="TV || DEPORTES", ESPN 2 HD (USA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92596
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="TV || DEPORTES", ESPN 3 HD (ANDINO)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92597
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="TV || DEPORTES", ESPN 3 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92598
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="TV || DEPORTES", ESPN 3 HD (LAT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92599
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="TV || DEPORTES", ESPN PREMIUM HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92603
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f6fac2cdd4520f026e26e7a1cac46ae8.png" group-title="TV || DEPORTES EUROPA", EUROSPORTS 1 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92607
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/0b29e5bfc58b925a22de70afd7154732.png" group-title="TV || DEPORTES EUROPA", EUROSPORTS 2 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92608
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="TV || DEPORTES", FOX SPORTS 1 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92610
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/7ce03ba06ad7b86f2b4b30ee24a89a1c.png" group-title="TV || DEPORTES", FOX SPORTS 1 HD (LAT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92612
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="TV || DEPORTES", FOX SPORTS 2 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92614
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="TV || DEPORTES", FOX SPORTS 2 HD (LAT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92616
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="TV || DEPORTES", FOX SPORTS 3 HD (ARG)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92618
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="TV || DEPORTES", FOX SPORTS 3 HD (COL)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92619
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA", DAZN 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/96927
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/e94a3b93dbfe738b49830ac7cd6af8cf.png" group-title="TV || DEPORTES", BEIN SPORTS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92571
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="TV || DEPORTES", CLARO SPORTS HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92573
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/51ae69923fcf1503f8836a86b81896a1.png" group-title="TV || DEPORTES", COMBATE HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92574
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="TV || DEPORTES", D.SPORTS FIGHT HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="TV || DEPORTES", ESPN 1 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92587
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="TV || DEPORTES", ESPN 1 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92589
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="TV || DEPORTES", ESPN 1 HD (USA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92590
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="TV || DEPORTES", ESPN 2 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92593
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="TV || DEPORTES", ESPN 2 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92595
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/fb797fd0a09f5dddd206eef174c7dad3.png" group-title="TV || DEPORTES", ESPN 4 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92601
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="TV || DEPORTES", ESPN 3 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92600
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f61bd7ec5eda590f5ec955e8e3e1d247.png" group-title="TV || DEPORTES", ESPN DEPORTES
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92602
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/e032dc3da1a8f5c2c87978642aa74219.png" group-title="TV || DEPORTES", ESPN 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92604
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="TV || DEPORTES", ESPN 6 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92605
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="TV || DEPORTES", ESPN + HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92606
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="TV || DEPORTES", FORMULA 1 FHD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92609
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/7ce03ba06ad7b86f2b4b30ee24a89a1c.png" group-title="TV || DEPORTES", FOX SPORTS 1 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92613
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/740d20d6d290d39f1b36e11d604320e3.png" group-title="TV || DEPORTES", FOX SPORTS 2 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92615
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/bc3c27321719cdceecc603b08cd2f816.png" group-title="TV || DEPORTES", FOX SPORTS 2 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92617
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4923c9eb8e0a079646cd3be8614e79b9.png" group-title="TV || DEPORTES", FOX SPORTS 3 HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92620
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="TV || DEPORTES", FOX SPORTS RACING (USA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92621
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f718e5fb2d7e20c031063e6bc501cb8e.png" group-title="TV || DEPORTES", FOX SPORTS PREMIUM HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92622
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/golf-channel-logo-png-full-hd-png-68512-768x232.png" group-title="TV || DEPORTES", GOLF CHANNEL HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92623
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/1df40e8b66e1a876baf633b9f604d5fe.png" group-title="TV || DEPORTES", MLB CHANNEL HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92624
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WPdg320/pngwing-com-3.png" group-title="TV || DEPORTES", NBA TV HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92625
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/6c6ad98cd6ab16b698bcae1106fd38ae.png" group-title="TV || DEPORTES", NFL NETWORK
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92626
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV || DEPORTES", PREMIERE SPORTS 1 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92627
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LS3DqKn/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="TV || DEPORTES", RED BULL TV
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92628
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/d2e7d69d8c5499cab78b27b24bc3560f.png" group-title="TV || DEPORTES", SKY SPORTS HD (PREMIER LEAGUE)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92629
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sky_Sports_2007_logo.svg/2560px-Sky_Sports_2007_logo.svg.png" group-title="TV || DEPORTES", SKY SPORTS HD (LA LIGA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV || DEPORTES", SPORTV 1 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92631
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/03c3e40c0772afd58e2df9e2b56bd156.png" group-title="TV || DEPORTES", SPORTV 2 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92632
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV || DEPORTES", SPORTV 3 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV || DEPORTES EUROPA", SPORT TV 1 HD (PORT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92634
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV || DEPORTES EUROPA", SPORT TV 2 HD (PORT)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92635
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="TV || DEPORTES", TENNIS CHANNEL HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92636
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ1qSqCD/FOX.png" group-title="TV || DEPORTES", FOX (HON)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92637
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YP4F09j/TNT-1.jpg" group-title="TV || DEPORTES", TNT SPORTS 1 HD (CHI)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92640
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="TV || DEPORTES", TNT SPORTS 2 HD (CHI)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92641
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnXgRRg/Sin-t-tulo-1.png" group-title="TV || DEPORTES", TUDN HD (MEX)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92643
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/3cfb128bcb16194afcedb870022c0591.png" group-title="TV || DEPORTES", TUDN USA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92644
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxSKDkc/WINS-SPORTS.jpg" group-title="TV || DEPORTES", WIN SPORTS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92645
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV || DEPORTES", WIN SPORTS +
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92646
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/fb/Fox_Sports_1_HD_logo.png" group-title="TV || DEPORTES", FOX SPORTS 1 HD (BRA)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/92611
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="TV || DEPORTES EUROPA", ELEVEN SPORTS 1 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/142521
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="TV || DEPORTES EUROPA", ELEVEN SPORTS 2 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/142522
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpCBpyK/sky.png" group-title="TV || DEPORTES PPV (solo eventos)", PPV SKY SPORTS LA LIGA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/188843
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/df05c515fc834ca0e9cd01edd254ae66.png" group-title="TV || DEPORTES PPV (solo eventos)", LA LIGA PLUS +
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/188844
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DAZN_Channel_%282021%29_Logo.svg/2560px-DAZN_Channel_%282021%29_Logo.svg.png" group-title="TV || DEPORTES PPV (solo eventos)", DAZN RINGSIDE HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/188845
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/bc044e999c09589549175a2456170bd5.png" group-title="TV || DEPORTES PPV (solo eventos)", FUBO SPORTS ᴴᴰ
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/188846
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE DISNEY PIXAR 1 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/24490
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE NETFLIX
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/24495
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE NETFLIX USA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/24496
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75171
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75173
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75174
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75175
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75177
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 6
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/75178
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 7
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139693
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 8
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139694
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 9
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139695
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 10
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139696
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 11
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139697
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 12
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139699
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 13
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139701
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hpzxkN/Pop-Corn.png" group-title="TV || 24/7 CINE", CINE PPV LATINOS 14
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139702
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || 24/7 CINE", CINE NETFLIX 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176198
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || 24/7 CINE", CINE NETFLIX 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176199
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || 24/7 CINE", CINE NETFLIX 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176200
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || 24/7 CINE", CINE NETFLIX 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176201
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || 24/7 CINE", CINE NETFLIX 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176202
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || 24/7 CINE", CINE NETFLIX 6
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176203
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || 24/7 CINE", CINE NETFLIX 7
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176204
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE", CINE NETFLIX 8
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/176205
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE", CINE NETFLIX 9
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181926
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE", CINE NETFLIX 10
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181927
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV || 24/7 CINE", 24/7 SCREAM
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181929
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE", CINE PARAMOUNT+ 01
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181930
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE", CINE PARAMOUNT+ 02
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/181931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE", CINE PARAMOUNT+ 03
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/185032
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE", CINE PARAMOUNT+ 04
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/185034
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE", CINE STAR+ 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/185035
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE", CINE STAR+ 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333315
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE", CINE STAR+ 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333316
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE", CINE STAR+ 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333317
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dPY6Tdq/Star-Cinema.png" group-title="TV || 24/7 CINE", CINE STAR+ 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333318
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 1
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333320
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 2
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333322
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333323
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 4
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333324
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 5
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333325
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCDYCqkK/Sky-Premiere-2.png" group-title="TV || 24/7 CINE", SKY PREMIERE 6
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/333326
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (01)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339992
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (02)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339993
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (03)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339994
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (04)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339995
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (05)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339996
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (06)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339997
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSnLx8Sw/image.png" group-title="TV || 24/7 CINE", 24/7 MOVIES (07)
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/339998
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2fC3sh/kung-fu-panda.png" group-title="TV || 24/7 INFANTILES", 24/7 | KUNG FU PANDA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/23854
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV || 24/7 INFANTILES", 24/7 | LA CASA DE MICKEY MOUSE
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/23964
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDXL9YD/mario.png" group-title="TV || 24/7 INFANTILES", 24/7 | SUPERMARIO BROSS 3
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25154
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV || 24/7 INFANTILES", 24/7 | PAW PATROL
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25155
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/61Z6mL60ltShU393JkgBawAaeCw.png" group-title="TV || 24/7 INFANTILES", 24/7 | BEETLEJUICE
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25156
+
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/02/Logo_CaballerosZodiaco_Bandai.png" group-title="TV || 24/7 INFANTILES", 24/7 | CABALLEROS DEL ZODIACO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25158
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV || 24/7 INFANTILES", 24/7 | LOS SUPER CAMPEONES
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25160
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" group-title="TV || 24/7 INFANTILES", 24/7 | MR. BEAN ANIMADO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/25633
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ben-10-logo-black-and-white.png" group-title="TV || 24/7 INFANTILES", 24/7 | BEN 10
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139705
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5nHR5unRhv6E9nWpEEFhxSeKX064P27GFg&s" group-title="TV || 24/7 INFANTILES", 24/7 | GO DIEGO GO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139708
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2c6243d18bef6c591166de9a6ce78888.png" group-title="TV || 24/7 INFANTILES", 24/7 | ADVENTURE TIME
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/171237
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="TV || 24/7 INFANTILES", 24/7 | MICKEY MOUSE
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/182137
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2fbf71494119523c2792c96f4ab1599f.png" group-title="TV || 24/7 INFANTILES", 24/7 | SCOOBY DOO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186851
+
+#EXTINF:-1 tvg-logo="http://www.princesas.tienda/wp-content/uploads/2020/09/princesa-sofia.jpg" group-title="TV || 24/7 INFANTILES", 24/7 | LA PRINCESA SOFIA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186852
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/36a1cfcf182aa38c287380b404793418.png" group-title="TV || 24/7 INFANTILES", 24/7 | DRAGON BALL GT
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186853
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rrD3RB/dragon-frezzer.png" group-title="TV || 24/7 INFANTILES", 24/7 | DRAGON BALL Z
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186854
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcn3sFK/PICAPIEDRA.png" group-title="TV || 24/7 INFANTILES", 24/7 | LOS PICAPIEDRAS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186855
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m92ZT9b/Peppa-Pig-Logo.png" group-title="TV || 24/7 INFANTILES", 24/7 | PEPPA PIG
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186856
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/b16a5496384942e89859498e0924e701.png" group-title="TV || 24/7 INFANTILES", 24/7 | DESENCANTO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186857
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KHxzQY/chapulin-animado.png" group-title="TV || 24/7 INFANTILES", 24/7 | EL CHAPULIN COLORADO ANIMADO
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186858
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k32CM48/Dragon-Ball-Super.png" group-title="TV || 24/7 INFANTILES", 24/7 | DRAGON BALL SUPER
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186859
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNDxTjG/chavo.png" group-title="TV || 24/7 INFANTILES", 24/7 | EL CHAVO DEL 8
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186860
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/MMPR_Era_Logo.png" group-title="TV || 24/7 INFANTILES", 24/7 | POWER RANGERS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186861
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7WxYPkg/hora-de-aventura.png" group-title="TV || 24/7 INFANTILES", 24/7 | HORA DE AVENTURA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186862
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjtbS0W/tom.png" group-title="TV || 24/7 INFANTILES", 24/7 | TOM Y JERRY
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186863
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV || 24/7 INFANTILES", 24/7 | GRAVITY FALLS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186864
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5t5hW2X/Los-supersonicos.png" group-title="TV || 24/7 INFANTILES", 24/7 | LOS SUPERSONICOS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186865
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-838269_thundercats-logo-png-transparent-png.png" group-title="TV || 24/7 INFANTILES", 24/7 | THUNDERCATS
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186866
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4t5WTM6/Liga-1.png" group-title="TV || PERU", Peru | LIGA 1 HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/81983
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU", Peru | LIGA 1 MAX HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/81984
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV || PERU", Peru | ATV+
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/102082
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV || PERU", Peru | EXITOSA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/139709
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNX03DrG/Nativa-tv.png" group-title="TV || PERU", Peru | NATIVA
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/161958
+
+#EXTINF:-1 tvg-logo="https://tvone.pe/tvone.png" group-title="TV || PERU", Peru | TV ONE
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/183698
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13g7yBSK/images.png" group-title="TV || PERU", Peru | OVACION
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186821
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/340038c94c7e83517f02e51ac9178a41.png" group-title="TV || PERU", Peru | America HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186822
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/b77f4d51b347c625deb751ca1c5ee3b1.png" group-title="TV || PERU", Peru | WILLAX HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186824
+
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/0/d/csm_2037-205_import_29f99179b2.png" group-title="TV || PERU", Peru | Latina HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186825
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBrx0cZ8/ATV.png" group-title="TV || PERU", Peru | ATV HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186826
+
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="TV || PERU", Peru | Panamericana HD
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186827
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wr203Z3/Tv-PE.png" group-title="TV || PERU", Peru | TV PERU
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186828
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jTPW3C/TV-Per-Noticias-2019-logo.png" group-title="TV || PERU", Peru | Peru Noticias
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186829
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fbfy062/rpp.png" group-title="TV || PERU", Peru | RPP
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186830
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWmHj8D/tvperu.png" group-title="TV || PERU", Peru | Tv Peru
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186831
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="TV || PERU", Peru | MOVISTAR DEPORTES
+http://fivetv.org:25461/Dannyna2819/Narvaezda3718/186832
+
